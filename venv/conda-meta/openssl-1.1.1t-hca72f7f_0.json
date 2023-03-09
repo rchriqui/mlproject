@@ -1029,7 +1029,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "openssl",
   "sha256": "751b677334095dc1dea43dfb46baf1108aa39ca9fb5880dbecd648b196c00f29",
   "size": 3508693,
   "subdir": "osx-64",

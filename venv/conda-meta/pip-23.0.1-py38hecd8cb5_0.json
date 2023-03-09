@@ -7977,7 +7977,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "pip",
   "sha256": "8ee3579acac732a573e34ee6f0d0ad3f34021e8ea3ebe1be97abd683d5614e9a",
   "size": 2669019,
   "subdir": "osx-64",
